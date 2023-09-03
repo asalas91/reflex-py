@@ -1,0 +1,14 @@
+*.db
+*.py[cod]
+.web
+__pycache__/
+
+**/.DS_Store
+**/*.pyc
+dist/*
+examples/
+.idea
+.vscode
+.coverage
+.coverage.*
+venv
